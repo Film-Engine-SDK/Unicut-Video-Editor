@@ -10,15 +10,15 @@ Unicut™ is a free Windows video editor. Open the footage, trim and stack it, a
 
 ## What you get
 - Cinematic Titles 
-Cinematic Transitions
-Cinematic Filters
-Speed Up / Slow down Clips
-Text, Video, Audio Tracks
-Picture in Picture Editing
-Text-To-Speech 
-Modern OpenGL 4.6 3D Scene Loading via Univah SDK
-Load Native Univah Film Engine Projects 
-Import Animated FBX Characters
+- Cinematic Transitions
+- Cinematic Filters
+- Speed Up / Slow down Clips
+- Text, Video, Audio Tracks
+- Picture in Picture Editing
+- Text-To-Speech 
+- Modern OpenGL 4.6 3D Scene Loading via Univah SDK
+- Load Native Univah Film Engine Projects 
+- Import Animated FBX Characters
 
 <img width="991" height="560" alt="Screenshot 2026-11-13 155509" src="https://github.com/user-attachments/assets/18640941-d6a8-4ceb-9e6d-daf4012d8521" />
 <img width="995" height="588" alt="Screenshot 2026-11-13 155447" src="https://github.com/user-attachments/assets/0280669c-6524-4df0-8f49-3314b92c8119" />
