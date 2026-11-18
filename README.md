@@ -11,6 +11,8 @@ Free Desktop video editor. Cut, record and export on your PC. No slow cloud uplo
 Unicut™ is a free Windows video editor. Open the footage, trim and stack it, add titles, EXR Sequences, filters, and transitions, text-to-speech, record a microphone take onto the timeline, and export an MP4 from 720p through 4K. Load Native Univah 3D Scenes. Import Animated FBX 3D characters. The editor does not require internet connection, making it a faster alternative to cloud-based video editors.
 
 ## What you get
+- Free 4K Resolution Export with No Watermark
+- No Annoying Ads or forced AI popups
 - Cinematic Titles 
 - Cinematic Transitions
 - Cinematic Filters
