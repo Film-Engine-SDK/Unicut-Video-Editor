@@ -1,4 +1,5 @@
 # Unicut Free 4K Resolution Video Editor! No Watermarks! No Annoying Ads! 
+Verified by Microsoft! Now available on the app store https://apps.microsoft.com/store/detail/9MW5PZHF8B3R?cid=DevShareMCLPCS
 <img width="1344" height="797" alt="Unicut Video Editor 1 by The Stephanie Michaels Software Company " src="https://github.com/user-attachments/assets/75207f51-cf68-4832-82c8-9008edc4354d" />
 <img width="1917" height="1138" alt="Unicut Video Editor by The Stephanie Michaels Software Company" src="https://github.com/user-attachments/assets/4dbab6c8-eb4a-4249-b7e1-039d9af6d78f" />
 <img width="1917" height="1138" alt="Unicut desktop editor" src="https://github.com/user-attachments/assets/7fbde3be-f2dc-468c-a484-75c7e1ec0519" />
